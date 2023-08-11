@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: o;
+}
+
+.logo {
+    width: 50px;   
+}
+
+body {
+    background-image: url(/resources/images/Marvel\ Wallpaper\ 4K\ For\ Pc\ Download\ Gallery.jpg);
+    background-position: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 20px;
+    height: 20vh;
+    box-shadow: whitesmoke;
+}
+
+.he
